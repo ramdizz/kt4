@@ -1,0 +1,35 @@
+@media only screen and (max-width: 1200px) {
+    .header {
+        width: 600px;
+    }
+    .s {
+        width: 100px;
+    }
+    .p {
+        width: 200px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .header {
+        width: 500px;
+    }
+    .s {
+        width: 70px;
+    }
+    .p {
+        width: 150px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .header {
+        width: 300px;
+    }
+    .s {
+        width: 40px;
+    }
+    .p {
+        width: 80px;
+    }
+}
